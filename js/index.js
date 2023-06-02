@@ -29,27 +29,27 @@ function getCubic() {
         switch ((cubic_1.innerHTML = arrRandom[getItem])) {
           case "Bầu":
             bau.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cua":
             cua.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Tôm":
             tom.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cá":
             ca.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Gà":
             ga.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Hươu":
             huou.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           default:
             break;
@@ -68,27 +68,27 @@ function getCubic() {
         switch ((cubic_2.innerHTML = arrRandom[getItem])) {
           case "Bầu":
             bau.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cua":
             cua.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Tôm":
             tom.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cá":
             ca.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Gà":
             ga.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Hươu":
             huou.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           default:
             break;
@@ -106,27 +106,27 @@ function getCubic() {
         switch ((cubic_3.innerHTML = arrRandom[getItem])) {
           case "Bầu":
             bau.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cua":
             cua.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Tôm":
             tom.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Cá":
             ca.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Gà":
             ga.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           case "Hươu":
             huou.style =
-              "color:red; font-size:2rem; animation: zoonScale 0.5s linear infinite forwards alternate;";
+              "color:red; font-size:2rem; ";
             break;
           default:
             break;
